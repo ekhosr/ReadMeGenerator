@@ -1,4 +1,4 @@
-# ReadMe Generator
+# Readme Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   ## My Github URL: 
   [EKHOSR](https://github.com/EKHOSR/)
@@ -20,7 +20,7 @@ Run the following command to install dependencies:
 npm install
 ```
 ## Usage 
-To generate ReadMe file
+to genrate Read Me File
 ## License 
       Copyright © MIT. All rights reserved. 
       
@@ -29,7 +29,7 @@ To generate ReadMe file
 Ehsan Khosravi
 ## Email:
 EKHOSR@GMAIL.COM
-## How to Run Test: 
+## Test: 
 Run the following command:
 ```
 npm test
