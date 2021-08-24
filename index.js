@@ -20,7 +20,7 @@ const questions = [
     type: "input",
     name: "dependencies",
     message: "Do You Want to Install Dependencies?",
-    default: "npm i",
+    default: "npm install",
   },
   {
     type: "input",
